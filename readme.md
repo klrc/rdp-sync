@@ -1,4 +1,4 @@
-# Molchip RDP Synchronizer
+# RDP Synchronizer
 基于rdp协议的文件像素传输工具，可靠传输，110kb/s左右
 ![](rec-2023-05-31-16.58.35.gif)
 
